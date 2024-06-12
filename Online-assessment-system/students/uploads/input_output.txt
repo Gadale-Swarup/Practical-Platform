@@ -1,0 +1,11 @@
+Input:
+
+function greet(name) {
+	console.log("Hello, " + name + "!");
+}
+
+greet("PVPIT");
+
+
+Output:
+Hello, PVPIT!

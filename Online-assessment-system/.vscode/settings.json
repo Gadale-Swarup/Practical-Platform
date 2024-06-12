@@ -1,0 +1,7 @@
+{
+    "dataworkspace.excludedProjects": [
+        "db_eval/db/db.sqlproj",
+        "db_eval/db_eval.sqlproj"
+    ],
+    "git.ignoreLimitWarning": true
+}

@@ -1,0 +1,10 @@
+Input:
+
+def greet(name):
+	print("Hello, " + name + "!")
+
+greet("Alex model")
+
+
+Output:
+Hello, Alex model!
