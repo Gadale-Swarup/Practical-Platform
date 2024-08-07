@@ -37,3 +37,4 @@
     - "apt-get install -y libzip-dev"
     - "docker-php-ext-install zip"
     shell: "BASH"
+    execute_every_command: true
